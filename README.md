@@ -1,5 +1,10 @@
 # Snow
-An open source performance CPU (Test/Experiment)
+<br>
+<br>
+Edit: Project Halted till Quantum is completed and tested; Lowering expectations as project has gotten way out of hand, renamed to hobbyist CPU, might create v2 with performance in mind (RISC V)
+<br>
+<br>
+An open source ~~performance~~ Hobby CPU (Test/Experiment)
 
 Sup, Work is finally going to begin on Snow, as I am having vacation.
 
