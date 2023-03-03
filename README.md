@@ -6,8 +6,10 @@ Edit: Project Halted till Quantum is completed and tested; Lowering expectations
 <br>
 An open source <del>performance</del> Hobby CPU (Test/Experiment)
 
-Sup, Work is finally going to begin on Snow, as I am having vacation.
+~~Sup, Work is finally going to begin on Snow, as I am having vacation.~~
 
 I'm planning for v1 to use my own core, in development known as Quantum, and then slowly work my way up.
 
-Original version is going to be designed in logisim, then maybe later on in Intel Quartus.
+~~Original version is going to be designed in logisim, then maybe later on in Intel Quartus.~~
+
+Designing v1 in VHDL. (Finally started today! 2/3/23)
