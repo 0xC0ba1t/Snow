@@ -4,6 +4,7 @@
 Edit: Project Halted till Quantum is completed and tested; Lowering expectations as project has gotten way out of hand, renamed to hobbyist CPU, might create v2 with performance in mind (RISC V)
 <br>
 <br>
+Edit 2: Project is now maintained at github.com/trrsrobotics/Asterisk [main branch : hobbyist | x branch : Performance]
 An open source <del>performance</del> Hobby CPU (Test/Experiment)
 
 ~~Sup, Work is finally going to begin on Snow, as I am having vacation.~~
